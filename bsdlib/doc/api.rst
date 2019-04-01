@@ -52,13 +52,6 @@ nRF91 Key Management
    :project: nrfxlib
    :members:
 
-nRF BSD Socket interface
-************************
-
-.. doxygengroup:: nrf_socket
-   :project: nrfxlib
-   :members:
-
 Integer values for errno
 ************************
 

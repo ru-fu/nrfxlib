@@ -8,4 +8,5 @@ BSD Library
    :caption: Contents:
 
    CHANGELOG
+   doc/bsd_socket_interface
    doc/api
